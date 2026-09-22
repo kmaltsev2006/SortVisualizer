@@ -1,1 +1,1 @@
-# Sort_Visualizer
+# SortVisualizer
